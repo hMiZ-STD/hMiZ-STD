@@ -1,5 +1,3 @@
 - 👋 Hi, I’m @hMiZ-STD
-- 👀 I’m interested in developing open source codes and website dvelopment 
-- 🌱 I’m currently learning c programming 
 - 📫 How to reach me mail me : hamizc.08.p@gmail.com
 - currently styding .
