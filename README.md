@@ -50,12 +50,6 @@
 
 Third-year Computer Science student at IIIT Sri City. I work across full-stack development, backend engineering, DSA, AI engineering and MLOps, and I learn by building: a quick tutorial first, then a real project.
 
-## Now
-
-- Building: _your current project_
-- Learning: _your current focus_
-- Looking for: remote software engineering internships
-
 ## Stack
 
 <div align="center">
