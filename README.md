@@ -58,28 +58,6 @@ Third-year Computer Science student at IIIT Sri City. I work across full-stack d
 
 </div>
 
-## Activity
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=hMiZ-STD&show_icons=true&theme=transparent&hide_border=true&title_color=0A84FF&icon_color=64D2FF&text_color=86868b" height="150" alt="GitHub stats" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hMiZ-STD&layout=compact&theme=transparent&hide_border=true&title_color=0A84FF&text_color=86868b" height="150" alt="Top languages" />
-
-</div>
-
-<details>
-<summary><b>System manifesto</b></summary>
-<br/>
-
-```diff
-- Outsource the thinking.
-- Ship code I can't explain.
-+ Think first, then ask.
-+ Use AI to go faster, not to go blind.
-```
-
-</details>
-
 ## Reach me
 
 <div align="center">
