@@ -3,7 +3,7 @@
 <img src="./assets/hero.svg" width="100%" alt="HAMIZ" />
 
 <a href="https://github.com/hMiZ-STD">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=18&duration=3800&pause=1600&color=0A84FF&center=true&vCenter=true&width=700&lines=Be+different.+Build+different.;Less+noise.+More+architecture.;%22Becoming+is+better+than+being.%22+%E2%80%94+Carol+Dweck;%22Who+looks+inside%2C+awakes.%22+%E2%80%94+Carl+Jung;%22Nothing+is+as+important+as+you+think+it+is.%22+%E2%80%94+Kahneman" alt="Rotating taglines" />
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=18&duration=3800&pause=1600&color=0A84FF&center=true&vCenter=true&width=700&lines=Brain+first.+AI+second.;Less+noise.+More+architecture.;%22Becoming+is+better+than+being.%22+%E2%80%94+Carol+Dweck;%22Who+looks+inside%2C+awakes.%22+%E2%80%94+Carl+Jung;%22Nothing+is+as+important+as+you+think+it+is.%22+%E2%80%94+Kahneman" alt="Rotating taglines" />
 </a>
 
 </div>
@@ -12,7 +12,7 @@
 
 > [!IMPORTANT]
 > **Philosophy**
-> Everyone is busy listing frameworks. I'd rather build things that speak for themselves. Unconventional thinking produces unconventional software.
+> Use your brain first. AI is the assistant, never the author. Tools change every year, but the ability to think is the one thing that compounds.
 
 <br/>
 
@@ -20,25 +20,25 @@
 <table>
   <tr>
     <td align="center" width="33%">
-      <sub><b>01 · MINDSET</b></sub>
+      <sub><b>01 · THINK</b></sub>
       <br/><br/>
-      <b>Be Different</b>
+      <b>Brain First</b>
       <br/>
-      <sub>Ignore the template.<br/>Question the default.</sub>
+      <sub>Understand the problem.<br/>Attempt it yourself.</sub>
     </td>
     <td align="center" width="33%">
-      <sub><b>02 · EXECUTION</b></sub>
+      <sub><b>02 · ASSIST</b></sub>
       <br/><br/>
-      <b>Build Different</b>
+      <b>AI Second</b>
       <br/>
-      <sub>Design for elegance.<br/>Engineer for scale.</sub>
+      <sub>A tool, not a crutch.<br/>It sharpens, never replaces.</sub>
     </td>
     <td align="center" width="33%">
-      <sub><b>03 · OUTPUT</b></sub>
+      <sub><b>03 · OWN</b></sub>
       <br/><br/>
-      <b>Ship Quietly</b>
+      <b>Own Every Line</b>
       <br/>
-      <sub>Zero hype.<br/>Pure execution.</sub>
+      <sub>If I can't explain it,<br/>I don't ship it.</sub>
     </td>
   </tr>
 </table>
@@ -72,10 +72,10 @@ Third-year Computer Science student at IIIT Sri City. I work across full-stack d
 <br/>
 
 ```diff
-- Follow the standard roadmap.
-- Copy what already works.
-+ Break the pattern.
-+ Build what shouldn't be possible.
+- Outsource the thinking.
+- Ship code I can't explain.
++ Think first, then ask.
++ Use AI to go faster, not to go blind.
 ```
 
 </details>
@@ -89,6 +89,10 @@ Third-year Computer Science student at IIIT Sri City. I work across full-stack d
 <a href="mailto:YOUR@EMAIL"><img src="https://img.shields.io/badge/Email-Say%20hi-64D2FF?style=flat-square&logo=gmail&logoColor=black" alt="Email" /></a>
 
 <br/><br/>
+
+<b>Et voilà.</b>
+
+<br/>
 
 <sub><i>"Silence speaks. Systems scale."</i></sub>
 
