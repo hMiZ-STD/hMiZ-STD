@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="320" viewBox="0 0 1200 320" role="img" aria-label="HAMIZ">
+  <defs>
+    <linearGradient id="g" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#5E5CE6"/>
+      <stop offset=".5" stop-color="#0A84FF"/>
+      <stop offset="1" stop-color="#64D2FF"/>
+    </linearGradient>
+    <radialGradient id="glow" cx="50%" cy="0%" r="75%">
+      <stop offset="0" stop-color="#0A84FF" stop-opacity=".28"/>
+      <stop offset="1" stop-color="#0A84FF" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+  <style>
+    text { font-family: -apple-system, BlinkMacSystemFont, "SF Pro Display", "Inter", "Segoe UI", sans-serif; }
+    .bg  { fill: #000; }
+    .sub { fill: #86868b; }
+    @media (prefers-color-scheme: light) {
+      .bg  { fill: #fbfbfd; }
+      .sub { fill: #6e6e73; }
+    }
+    .in { opacity: 0; animation: in 1.2s cubic-bezier(.2,.8,.2,1) forwards; }
+    .d1 { animation-delay: .15s; }
+    .d2 { animation-delay: .45s; }
+    @keyframes in { from { opacity: 0; transform: translateY(10px); } to { opacity: 1; transform: none; } }
+  </style>
+  <rect class="bg" width="1200" height="320" rx="28"/>
+  <rect width="1200" height="320" rx="28" fill="url(#glow)"/>
+  <text class="in d1" x="600" y="178" text-anchor="middle" font-size="104" font-weight="700" letter-spacing="-3" fill="url(#g)">HAMIZ</text>
+  <text class="in d2 sub" x="600" y="232" text-anchor="middle" font-size="22" font-weight="400" letter-spacing="0.5">Computer Science · Systems · AI Engineering</text>
+</svg>
