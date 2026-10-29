@@ -48,7 +48,7 @@
 
 ## About
 
-Third-year Computer Science student at IIIT Sri City. I work across full-stack development, backend engineering, DSA, AI engineering and MLOps, and I learn by building: a quick tutorial first, then a real project.
+Third-year Computer Science student at IIIT Sri City. I work across full-stack development, backend engineering, DSA, AI engineering and MLOps.
 
 ## Stack
 
